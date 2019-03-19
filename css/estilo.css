@@ -51,7 +51,7 @@ body{
 
   width: 100%;
   height: 500px;
-  border-top: solid #000 1px;
+  border-top: solid #ababac 1px;
   background-color:#fff;
   font-size: 10.5px;
 
@@ -61,7 +61,7 @@ body{
 
   width: 100%;
   height: 300px;
-  border-top: solid #000 1px;
+  border-top: solid #ababac 1px;
   background-color:#fff;
   font-size: 10.5px;
 
@@ -84,7 +84,54 @@ body{
   margin-right: 10px;
 }
 
-#footer footer .redesocial .social .github:houver{
+#github{
 
-background-image: url(img\github -2.png);
+background-image:url( ../img/github-1.png);
+background-repeat: no-repeat;
+
+}
+#github:hover{
+
+  background-image:url( ../img/github-2.png);
+  background-repeat: no-repeat;
+
+}
+
+#instagram{
+
+background-image:url( ../img/instagram-1.png);
+background-repeat: no-repeat;
+
+}
+#instagram:hover{
+
+  background-image:url( ../img/instagram-2.png);
+  background-repeat: no-repeat;
+
+}
+
+#linkedin{
+
+background-image:url( ../img/linkedin-1.png);
+background-repeat: no-repeat;
+
+}
+#linkedin:hover{
+
+  background-image:url( ../img/linkedin-2.png);
+  background-repeat: no-repeat;
+
+}
+
+#twitter{
+
+background-image:url( ../img/twitter-1.png);
+background-repeat: no-repeat;
+
+}
+#twitter:hover{
+
+  background-image:url( ../img/twitter-2.png);
+  background-repeat: no-repeat;
+
 }
