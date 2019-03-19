@@ -77,16 +77,18 @@ Windows 7 profession
 
 ------------------------- like to do ---------------------------------------
 
-Project Arduino
-Raspberry Gamer
-Internet of Things
-play Free Fire
-Create Bot
-Develop Artificial Intelligence
-Develop mini gamer
-I like football
-<3 I love you xiaomi
-Draw in paint
-Undertake & develop
-Undertake & develop
-Undertake & develop (loop infinity)
+* Project Arduino
+* Raspberry Gamer
+* Internet of Things
+* play Free Fire
+* Create Bot
+* Develop Artificial Intelligence
+* Develop mini gamer
+* I like football
+* <3 I love you xiaomi
+* Draw in paint
+* Undertake & develop
+* Undertake & develop
+* Undertake & develop (loop infinity)
+
+                       Welcome the my Github or Site!!!
