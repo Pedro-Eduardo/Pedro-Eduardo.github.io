@@ -10,6 +10,18 @@ body{
   background-color:#aa4160;
 
 }
+#header img{
+
+  border-radius: 100px;
+  border: solid #ababac 2px;
+}
+
+#header span{
+
+  font-size: 30px;
+  font-style: bold;
+  color: #ddd;
+}
 #aboutme{
 
 }
@@ -18,4 +30,18 @@ body{
 }
 #footer{
 
+  width: 100%;
+  height: 80px;
+  background-color:#ababac;
+
+}
+#footer footer{
+
+  padding: 10px;
+
+}
+#footer footer .redesocial .social {
+
+  text-decoration: none;
+  margin-right: 10px;
 }
