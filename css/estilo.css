@@ -26,6 +26,7 @@ body{
 #header h3{
 
   color: #ddd;
+
 }
 #header h3::after {
     content: '|';
@@ -52,7 +53,7 @@ body{
   height: 500px;
   border-top: solid #000 1px;
   background-color:#fff;
-  font-size: 12.5px;
+  font-size: 10.5px;
 
 }
 
@@ -62,7 +63,7 @@ body{
   height: 300px;
   border-top: solid #000 1px;
   background-color:#fff;
-  font-size: 12.5px;
+  font-size: 10.5px;
 
 }
 #footer{
