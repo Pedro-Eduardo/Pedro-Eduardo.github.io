@@ -13,7 +13,7 @@ I'm develop and like of create things of technology.
 
 * Cloud Services
 
-AWS + enter
+AWS
 
 * Web Servers
 
@@ -21,7 +21,7 @@ Apache
 
 *  Banco de dados
 
-My Sql
+My Sql space +
 Sql Serve
 Postgres
 
