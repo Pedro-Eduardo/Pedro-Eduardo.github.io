@@ -21,37 +21,50 @@ Apache
 
 *  Banco de dados
 
-1. My Sql
-2. Sql Serve
-3. Postgres
+My Sql
 
-Double space + enter
+Sql Serve
+
+Postgres
 
 * Frameworks
 
 Laravel
+
 Boostrap
+
 Vue.JS
 
 * Liguagens marcação / programação / Aprendizado
 
 PHP 5.x
+
 Python 3.x
+
 JS
+
 Css
+
 HTML
+
 Java
+
 C
+
 C++
+
 Portugol
 
 * Tecnologias:
+
 Docker
+
 Git
 
 * Repositórios
 
 Github
+
 BitBucket
 
 * Teste
@@ -61,20 +74,27 @@ PHPUnit (Para testar unidades do Projeto)
 * metodos de Desenvolvimento
 
  Scrum (metodologia ágil)
+
  Rup
 
 * Ferramentas
 
 Runrun.in
+
 Trello
+
 extensões google para front
+
 google Keep
 
 * SO
 
 Ubuntu
+
 Debian
+
 Windows 10
+
 Windows 7 profession
 
 ------------------------- like to do ---------------------------------------
@@ -93,4 +113,4 @@ Windows 7 profession
 * Undertake & develop
 * Undertake & develop (loop infinity)
 
-                       Welcome the my Github or Site!!!
+                       **Welcome the my Github or Site!!!**
