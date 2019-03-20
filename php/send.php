@@ -16,5 +16,6 @@
 	mail($para, $assunto, $corpo, $cabeçalho);
 	echo"<h2>E-mail enviado com sucesso!</h2>";
 	exit;
+  header("Location: ..\index.html");
 }
 ?>
