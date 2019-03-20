@@ -21,9 +21,9 @@ Apache
 
 *  Banco de dados
 
-My Sql space +
-Sql Serve
-Postgres
+1. My Sql
+2. Sql Serve
+3. Postgres
 
 * Frameworks
 
