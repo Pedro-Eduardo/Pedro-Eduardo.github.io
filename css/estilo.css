@@ -64,6 +64,12 @@ body{
   text-align: justify;
 }
 
+#aboutme #contexto{
+
+ width: 40%;
+ padding-top: 2%;
+}
+
 #contact{
 
   width: 100%;
