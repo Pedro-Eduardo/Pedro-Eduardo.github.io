@@ -203,3 +203,31 @@ background-repeat: no-repeat;
   background-repeat: no-repeat;
 
 }
+
+@media (max-width: 768px)
+{
+  #aboutme #contexto{
+      width: 80%;
+      height:600px;
+  }
+}
+
+@media (max-width: 414px)
+{
+
+  #aboutme #contexto{
+      width: 80%;
+      height:650px;
+  }
+
+}
+
+@media (max-width: 375px)
+{
+
+  #aboutme #contexto{
+      width: 80%;
+      height:700px;
+  }
+
+}
