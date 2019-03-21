@@ -206,28 +206,38 @@ background-repeat: no-repeat;
 
 @media (max-width: 768px)
 {
+  #aboutme{
+
+      height:750px;
+  }
   #aboutme #contexto{
       width: 80%;
-      height:700px;
   }
 }
 
 @media (max-width: 414px)
 {
+  #aboutme{
+
+      height:800px;
+  }
 
   #aboutme #contexto{
       width: 60%;
-      height:750px;
   }
 
 }
 
 @media (max-width: 375px)
 {
+  #aboutme{
+
+      height:850px;
+  }
 
   #aboutme #contexto{
       width: 60%;
-      height:800px;
+
   }
 
 }
