@@ -1,15 +1,15 @@
-Hello!! My name is Pedro Eduardo. This is my web site for show my jobs.
+Hello!! My name is Pedro Eduardo. This is my website for potential jobs.
 Fone: + 55 (84) 9 96173018
 Email: dev.pedroeduardo@gmail.como
 youtube: www.youtube.cpm/channel/
 spotify: pepsilva01
 
 
-I'm develop and like of create things of technology.
+I'm a developer that enjoys working with technology.
 
------------------------------- My skill ---------------------------------------
+------------------------------ My skills ---------------------------------------
 
-                          Junior programmer  :-P
+                          Junior programmer
 
 * Cloud Services
 
@@ -107,10 +107,10 @@ Windows 7 profession
 * Develop Artificial Intelligence
 * Develop mini gamer
 * I like football
-* <3 I love you xiaomi
+* I love you xiaomi
 * Draw in paint
 * Undertake & develop
 * Undertake & develop
 * Undertake & develop (loop infinity)
 
-                       ** Welcome the my Github or Site!!! **
+                       ** Welcome to my Github or Site!!! **
