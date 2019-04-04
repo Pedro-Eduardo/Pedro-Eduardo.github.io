@@ -9,7 +9,7 @@
 	$para ="dev.pedroeduardo@gmail.com";
 	$assunto ="Contato Via Site";
 	$corpo ="Nome:".$nome."- E-mail: ".$email." - Mensagem: ".$msg;
-	$cabeçalho = "From: pedroeduardopereiradasilva@gmail.com"."\r\n".
+	$cabeçalho = "From: contato@pedroeduardo.com.br"."\r\n".
 		     "Reply-To: ".$email."\r\n".
 		     "X-Mailer: PHP/".phpversion();
 
