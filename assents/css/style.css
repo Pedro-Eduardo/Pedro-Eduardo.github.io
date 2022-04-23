@@ -4,12 +4,16 @@
 .contact-me h2{
     text-align: center;
 }
+
+.social {
+    margin-bottom: 50px;
+}
+.social a:hover{
+    text-decoration: none;
+}
 .social-divisor-icone{
     display: inline-block; /*Definir div um do lado da outra*/
-    margin: 5px;
     width: 50;
-    margin-left: 20;
-    margin-bottom: 50px;
     margin-top: 50px;
 }
  .social-circulo-icone{
