@@ -1,0 +1,44 @@
+.contact-me{
+    width: 100%;
+}
+.contact-me h2{
+    text-align: center;
+}
+.social-divisor-icone{
+    display: inline-block; /*Definir div um do lado da outra*/
+    margin: 5px;
+    width: 50;
+    margin-left: 20;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+ .social-circulo-icone{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #000000;
+    display: table-cell; /*Centralizar vertical no contair*/
+    vertical-align: middle /*Centralizar vertical no contair*/
+}
+.social-circulo-icone i {
+    color: #ffffff;
+    font-size: 20;
+}
+
+/* Inicio do Efeito de botão grande e borda 2cm */
+.social-divisor-icone:hover .social-circulo-icone  {
+    background-color: #ffffff;
+    border: #000000 solid 2px;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+ .social-divisor-icone:hover .social-circulo-icone i {
+    color: #000000;
+    font-size: 22;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+}

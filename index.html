@@ -1,86 +1,76 @@
-<!DOCTYPE html>
-<html lang="pt-br" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pedro Eduardo</title>
-    <link rel="stylesheet" href="css/estilo.css">
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pedro E S Portfólio</title>
+   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  
+   <!--css personalizado-->
+   <link rel="stylesheet" href="assents/css/style.css">
+   <!-- link do fontawesome-->
+   <script src="https://kit.fontawesome.com/1014640072.js" crossorigin="anonymous"></script>
+
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   </head>
+
   <body>
 
-    <div id ="header" align = "center">
-      <img src="img\perfil.jpg"><br>
-      <span>PEDRO EDUARDO</span>
-
-      <h3>Develop (in evolution)</h3>
-      <script src="js/script.js"></script>
-
-    </div>
-    <div id= "aboutme" align = "center">
-
-      <i>
-        <h1>ABOUT ME </h1>
-      </i>
-      <div id="contexto" >
-
-        <p>
-
-            Hello, my name is Pedro live in Natal- RN , Brazil and I'm develop and profissional
-            of informatica. Start my career with 13 years creating java systems. Today I like of
-            create  projects of artificial intelligence, bot, IOT and system web , automation,
-            mini gamer and create things to improve life of people's. Do you want a service from
-            me or a partnership? download my resume so you can find more information and contacts
-            about me.
-        </p>
-
-      </div>
-
-    </div>
-    <div id= "contact" align = "center">
-
-      <i>
-        <h1>CONTACT ME </h1>
-      </i>
-      <form action="php\send.php" method="POST">
-
-        <input class="campos" id="campo-nome" type="text" nome="nome" placeholder="Name"><br><br>
-        <input class="campos" id="campo-email" type="email" name="email" placeholder="Email"><br><br>
-        <textarea name="msg" placeholder="Message"></textarea><br><br>
-        <input id="bt" type="submit"  value="Send">
-
-
-      </form>
-
-    </div>
-    <div id= "footer" align = "center">
-      <footer>
-
-        <div class="redesocial">
-
-          <a class="social" href="https://github.com/Pedro-Eduardo">
-            <img src="img\none.png" id="github">
-          </a>
-
-          <a class="social" href="https://www.instagram.com/pedr0.eduard0/">
-            <img src="img\none.png" id="instagram" >
-          </a>
-
-          <a class="social" href="https://www.linkedin.com/in/pedro-eduardo-b14aa289/">
-            <img src="img\none.png" id="linkedin" >
-          </a>
-
-          <a class="social" href="https://twitter.com/Pedr0_Eduard0Ps">
-            <img src="img\none.png" id="twitter" >
-          </a> <br>
-
-          <!– Esse é dp circuit.io  https://circuits.io/users/699053 –>
-
-          <label>© Pedro Eduardo 2019</label>
-
+    <div class="container-fluid">
+      <!-- Content here -->
+      <!--Sessão Contatar me Inicio-->
+      <div class="contact-me text-center">
+        <h2>For more information, reach me out!</h2>
+        <div class="social ">
+          <!--Icone do Instragram-->
+            <div class="social-divisor-icone ">
+              <div class="social-circulo-icone">
+                <i class="fa-brands fa-instagram"></i>
+              </div>
+            </div>
+          <!--Icone do Github-->
+          <div class="social-divisor-icone ">
+            <div class="social-circulo-icone">
+              <i class="fa-brands fa-github"></i>
+            </div>
+          </div>
+          <!--Icone do Linkedin-->
+          <div class="social-divisor-icone ">
+            <div class="social-circulo-icone">
+              <i class="fa-brands fa-linkedin"></i>
+            </div>
+          </div>
+          <!--Icone do Email-->
+          <div class="social-divisor-icone ">
+            <div class="social-circulo-icone">
+              <i class="fa-solid fa-envelope"></i>
+            </div>
+          </div>
+          <!--Icone do Whatsapp-->
+          <div class="social-divisor-icone ">
+            <div class="social-circulo-icone">
+              <i class="fa-brands fa-whatsapp"></i>
+            </div>
+          </div>
+          <!--Icone do Bloguer-->
+          <div class="social-divisor-icone ">
+            <div class="social-circulo-icone">
+              <i class="fa-brands fa-blogger-b"></i>
+            </div>
+          </div>
         </div>
-
+      </div>
+      <!--Footer Inicio-->
+      <footer>
+        <p>copyright <i class="fa-solid fa-copyright"></i> Pedro Eduardo Silva 2022</p>
       </footer>
     </div>
-
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
 </html>
