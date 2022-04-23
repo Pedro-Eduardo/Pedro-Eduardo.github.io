@@ -30,7 +30,7 @@
 }
 
 /* Inicio do Efeito de botão grande e borda 2cm */
-.social-divisor-icone:hover .social-circulo-icone  {
+ .social-circulo-icone:hover  {
     background-color: #ffffff;
     border: #000000 solid 2px;
     height: 40px;
