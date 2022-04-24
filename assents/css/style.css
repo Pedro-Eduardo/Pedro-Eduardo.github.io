@@ -2,6 +2,11 @@
     height: 100vh;
 }
 
+.sobre .row{
+    width: 100%;
+    height: auto;
+}
+
 .sobre .row .col img{
     width: 430px;
     height: auto;
@@ -19,6 +24,14 @@
     transform: scale(1.3); /*Efeito de aumentar sem mexer na estrutura*/
 }
 
+/*Sessão Projetos*/
+.projetos{
+    width: 100%;
+    height: 100vh;
+    margin-top: 50px;
+}
+.projetos .row h1{   
+}
 /*Botão de CV*/
 .bt-cv{
     color: #ffffff;
