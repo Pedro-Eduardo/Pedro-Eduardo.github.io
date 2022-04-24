@@ -2,18 +2,18 @@
     height: 100vh;
 }
 
-.sobre .row .col-6 img{
+.sobre .row .col img{
     width: 430px;
     height: auto;
     border-radius: 5px;
 }
 
-.sobre .row .col-6 .stack img{
+.sobre .row .col .stack img{
     width: 40px;
     height: auto;
     border-radius: 5px;
 }
-.sobre .row .col-6 .stack img:hover{
+.sobre .row .col .stack img:hover{
     -webkit-transform: scale(1.3); /*Efeito de aumentar sem mexer na estrutura*/
     -ms-transform: scale(1.3); /*Efeito de aumentar sem mexer na estrutura*/
     transform: scale(1.3); /*Efeito de aumentar sem mexer na estrutura*/
