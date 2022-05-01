@@ -29,11 +29,11 @@
         <a href="" class="projeto">Projetos</a>
         <a href="" class="contato">Contato</a>
       </nav>
-<!--       <div class="menu-bnt">
+      <div class="menu-btn">
         <span></span>
         <span></span>
         <span></span> 
-      </div> -->
+      </div> 
     </header>
     <div class="container-fluid">
       <!-- Content here -->
@@ -205,4 +205,17 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
+
+  <!-- 
+    Menu JS responsivo
+   -->
+
+   <script>
+     const btn = document.querySelector('.menu-btn');
+     const nav = document.querySelector('nav');
+     btn.onclick = function(){
+       this.classList.toggle('active')
+       nav.classList.toggle('active')
+     }
+   </script>
 </html>
