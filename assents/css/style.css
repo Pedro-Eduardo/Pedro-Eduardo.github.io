@@ -4,12 +4,21 @@
     box-sizing: border-box;
     text-decoration: none;
 }
-.row{
+#homeID img{
     height: 100vh;
+    width: 100%;
+    
+}
+.row{
+    margin: 0px;
+}
+.sobre {
+    height: 100hv;
 }
 .sobre .row{
     width: 100%;
     height: auto;
+    margin-top: 100px;
 }
 
 .img-perfil{
@@ -35,7 +44,6 @@
 /*Sessão Projetos*/
 .projetos{
     width: 100%;
-    height: 100vh;
     margin-top: 50px;
     
 }
@@ -92,10 +100,64 @@
     color: #ffffff;
     text-decoration: none;
 }
+
+/* Incialização dos  Projetos */
+
+#projetoID{
+    display: block;
+}
+.projeto-container{
+    border-radius: 10px;
+    text-align: center;
+}
+
+.projeto-container img{
+
+   height: 350px;
+   padding-top: 100px;
+   border-radius: 10px;
+}
+.projeto-container h3{
+
+    color: #ffffff;
+    padding-top: 50px;
+}
+.projeto-container p{
+
+    color: #ffffff;
+    padding-top: 30px;
+    text-align: justify;
+    text-indent: 4em;
+    width: 80%;
+}
+.projeto-container .botoes{
+    width: 100%;
+    color: #ffffff;
+}
+.projeto-container .botoes .div-bt{
+    width: 150px;
+    border: #ffffff solid 2px;
+    border-radius: 15px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 80px;
+
+}
+
+/*Efeito de atualização mouse passar em cima do elemento*/
+.projeto-container .botoes .div-bt:hover{
+    color: #000;
+    background-color: #ffffff;
+    font-weight: bold;
+    -webkit-transform: scale(1.2); /*Efeito de aumentar sem mexer na estrutura*/
+    -ms-transform: scale(1.3); /*Efeito de aumentar sem mexer na estrutura*/
+    transform: scale(1.1); /*Efeito de aumentar sem mexer na estrutura (Faz crescer)*/ 
+
+}
+
 .contact-me{
     width: 100%;
     height: 120px;
-    display: block;
 }
 .contact-me h2{
     text-align: center;
